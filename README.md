@@ -12,15 +12,12 @@ An AI-powered assistant built using **Streamlit + Groq LLM**, featuring a secure
 
 ---
 
-## 🎬 Demo (With Sound 🎧)
+## 🎬 Demo Preview
 
 <p align="center">
-  <video width="700" controls>
-    <source src="groq_ai.mp4" type="video/mp4">
-  </video>
+  <img src="groq_ai.gif" width="600"/>
 </p>
 
-👉 If the video doesn't play, [Click here to watch](./groq_ai.mp4)
 
 ---
 
